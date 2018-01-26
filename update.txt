@@ -1,1 +1,2 @@
-Started the Project.  Need help turning data frame into a dictionary.
+Project 1 completed.  Links to blog post and Jupyter Notebook have been updated on
+my personal website.
